@@ -6,8 +6,18 @@
 ---
 
 ## 👨‍💻 About Me
+![DATA ANALYST](https://st4.depositphotos.com/6872540/25068/v/450/depositphotos_250686090-stock-illustration-women-silhouette-neural-networks-connections.jpg)
 
-I am a **Data Analyst** and **Machine Learning Enthusiast** with strong expertise in **SQL**, **data visualization**, and **data analysis**. I love solving real-world problems by leveraging data to make strategic decisions. From creating visually stunning dashboards to predictive analytics, I’m constantly learning and applying new tools.
+🔍 Data Explorer | 🧠 ML Geek
+💾 SQL Guru | 📊 Viz Wizard
+
+🎯 Love solving real-world problems!
+🛠️ With data as my power tool!
+
+✨ From dashboards to predictions,
+I'm always learning, always building. 🚀
+
+🌱 Growing every day in the world of data!
 
 ---
 
@@ -31,15 +41,29 @@ I am a **Data Analyst** and **Machine Learning Enthusiast** with strong expertis
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 ---
+
 ## 🧠 Currently Learning:
-Advanced Deep Learning Techniques – Models like BERT and GPT for NLP applications.
-Real-time Data Analytics – Leveraging real-time data streams for dynamic dashboards and reporting.
+
+![Deep Learning](https://our-thinking.nashtechglobal.com/hubfs/Imported_Blog_Media/Data-vs-Analytics-vs-Insights-banner-4.png)
+
+**Advanced Deep Learning Techniques**  
+Exploring models like **BERT** & **GPT** for NLP! 🤖
+
+![Real-time Data](https://media.licdn.com/dms/image/v2/D4D12AQGtpERNUyo7vw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1684223129333?e=2147483647&v=beta&t=OBmPGOztBrrNo9AZ7aiZRF1VOctd4SZsm90zptDtFMk)
+
+**Real-time Data Analytics**  
+Playing with **live data** streams for dashboards! 📊
 
 ---
-## 🎉 Fun Fact:
-When I'm not working with data, you'll find me playing football, traveling to new destinations, or binge-watching the latest anime series!
+
+## 🎉 Fun Fact
+
+![FootballGIT](https://i.makeagif.com/media/4-05-2016/_WKVVG.gif)
+
+When I’m not diving into data, I’m on the football field ⚽, exploring new destinations 🌍, or lost in anime marathons! 🎬  
 
 ---
+
 ## 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aRewhY1717&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
@@ -65,5 +89,3 @@ gantt
     DataStory Visualization       :active, des6, 2023-10-01, 2024-01-01
     Loan Default Prediction       :done, des7, 2024-03-01, 2024-04-01
     Sports Event Classification   :done, des8, 2024-05-01, 2024-06-01
-
-
